@@ -1,0 +1,12 @@
+C:\Users\ecalvo\Desktop\Varios\Erlantz\Alcachofa\Alcachofa\bin\Debug\Alcachofa.exe.config
+C:\Users\ecalvo\Desktop\Varios\Erlantz\Alcachofa\Alcachofa\bin\Debug\Alcachofa.exe
+C:\Users\ecalvo\Desktop\Varios\Erlantz\Alcachofa\Alcachofa\bin\Debug\Alcachofa.pdb
+C:\Users\ecalvo\Desktop\Varios\Erlantz\Alcachofa\Alcachofa\bin\Debug\libvideo.dll
+C:\Users\ecalvo\Desktop\Varios\Erlantz\Alcachofa\Alcachofa\bin\Debug\MediaToolkit.dll
+C:\Users\ecalvo\Desktop\Varios\Erlantz\Alcachofa\Alcachofa\bin\Debug\libvideo.pdb
+C:\Users\ecalvo\Desktop\Varios\Erlantz\Alcachofa\Alcachofa\obj\Debug\Alcachofa.csprojResolveAssemblyReference.cache
+C:\Users\ecalvo\Desktop\Varios\Erlantz\Alcachofa\Alcachofa\obj\Debug\Alcachofa.Alcachofa.resources
+C:\Users\ecalvo\Desktop\Varios\Erlantz\Alcachofa\Alcachofa\obj\Debug\Alcachofa.Properties.Resources.resources
+C:\Users\ecalvo\Desktop\Varios\Erlantz\Alcachofa\Alcachofa\obj\Debug\Alcachofa.csproj.GenerateResource.Cache
+C:\Users\ecalvo\Desktop\Varios\Erlantz\Alcachofa\Alcachofa\obj\Debug\Alcachofa.exe
+C:\Users\ecalvo\Desktop\Varios\Erlantz\Alcachofa\Alcachofa\obj\Debug\Alcachofa.pdb
