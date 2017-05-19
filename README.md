@@ -7,3 +7,4 @@ Friendly program to download videos or music from YouTube. This application has 
 to mp3 file.
 3) Choose folder: Press this button to choose the folder where you want to download your video/audio file (the default folder is the user's desktop).
 
+To compile this program you must have MediaToolkit package(https://www.nuget.org/packages/MediaToolkit/1.0.0.3) and a reference to the video library (https://github.com/hig-dev/libvideo.git)
