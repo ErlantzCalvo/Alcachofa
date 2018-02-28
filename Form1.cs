@@ -237,7 +237,7 @@ namespace Alcachofa
 
         private void twitterDelDesarrolladorToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://twitter.com/erlcalvo");
+            System.Diagnostics.Process.Start("https://twitter.com/erlantzcalvo");
         }
 
         private void cerrarAplicaciónToolStripMenuItem_Click(object sender, EventArgs e)
