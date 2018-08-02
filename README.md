@@ -36,3 +36,7 @@ $ Install-Package MediaToolkit -version 1.0.0.3
 $ Install-Package VideoLibrary -Version 2.0.0
 $ Install-Package Newtonsoft.Json -Version 11.0.2
 ```
+
+
+# License
+GNU © [Erlantz Calvo](https://github.com/ErlantzCalvo)
